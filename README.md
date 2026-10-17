@@ -45,16 +45,19 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Trophies
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ashwin's GitHub stats" />
-
-<img height="160em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
+<!-- Trophies (Always loads, no token limits) -->
+<img src="https://github-profile-trophy.vercel.app/?username=1shwInSingh&theme=radical&no-frame=true&margin-w=4" alt="Ashwin's Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1shwInSingh&theme=react-dark" alt="Activity Graph" width="100%" />
+<!-- Working Streak Card -->
+<img height="165em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
+
+<!-- Working Stats Card via Demolab mirror -->
+<img height="165em" src="https://github-readme-stats.salesp07.workers.dev/api?username=1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ashwin's GitHub stats" />
 
 </div>
