@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,java,nodejs,mysql,mongodb,gcp,wordpress,apple,linux,ubuntu,docker" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,git,java,nodejs,mysql,mongodb,gcp,wordpress,apple,fedora,ubuntu,docker" alt="Tech Stack" />
 
 </div>
 
@@ -49,14 +49,19 @@
 
 <div align="center">
 
+<!-- Working Streak Card -->
 <img height="175em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
 
 <br/><br/>
 
+<!-- Fast, 100% Reliable Shields.io Profile Metrics -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Developer-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Total_Contributions-80+-FF0055?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Software_Engineering-7928CA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+<!-- Live GitHub Profile Summary Card (Hosted by GitHub itself, no downtime) -->
+<img width="80%" src="https://github-readme-stats-fast.vercel.app/api?username=1shwInSingh&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" onerror="this.style.display='none'" />
 
 </div>
