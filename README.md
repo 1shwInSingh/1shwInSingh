@@ -40,9 +40,8 @@
 ### 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_ACTUAL_USERNAME>/<YOUR_ACTUAL_USERNAME>/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
-
 ---
 
 ### 📊 GitHub Stats & Streaks
