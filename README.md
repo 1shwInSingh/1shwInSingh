@@ -49,9 +49,9 @@
 <div align="center">
 
 <!-- GitHub Readme Stats (with official fallback endpoint) -->
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?1shwInSingh=YOUR_1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <!-- Dynamic Activity Graph (Very reliable) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?1shwInSingh=YOUR_1shwInSingh&theme=react-dark" alt="Activity Graph" />
 
 </div>
