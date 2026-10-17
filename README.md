@@ -44,9 +44,14 @@
 </div>
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=<YOUR_ACTUAL_USERNAME>&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_ACTUAL_USERNAME>&theme=radical" alt="GitHub Streak" />
+
+<!-- GitHub Readme Stats (with official fallback endpoint) -->
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<!-- Dynamic Activity Graph (Very reliable) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="Activity Graph" />
+
 </div>
