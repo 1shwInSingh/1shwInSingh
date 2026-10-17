@@ -9,7 +9,7 @@
 </p>
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1shwInSingh)
-[![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/1shwInSingh)
+[![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:63940ashwinsingh@gmail.com)
 
 </div>
@@ -42,16 +42,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
+
 ---
 
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<!-- GitHub Readme Stats (with official fallback endpoint) -->
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?1shwInSingh=YOUR_1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ashwin's GitHub stats" />
 
-<!-- Dynamic Activity Graph (Very reliable) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?1shwInSingh=YOUR_1shwInSingh&theme=react-dark" alt="Activity Graph" />
+<img height="160em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1shwInSingh&theme=react-dark" alt="Activity Graph" width="100%" />
 
 </div>
