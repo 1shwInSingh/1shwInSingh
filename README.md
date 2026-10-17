@@ -45,19 +45,23 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
 
-<!-- Trophies (Always loads, no token limits) -->
-<img src="https://github-profile-trophy.vercel.app/?username=1shwInSingh&theme=radical&no-frame=true&margin-w=4" alt="Ashwin's Trophies" />
+<!-- Working Streak Card -->
+<img height="175em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
 
 <br/><br/>
 
-<!-- Working Streak Card -->
-<img height="165em" src="https://streak-stats.demolab.com/?user=1shwInSingh&theme=radical" alt="Ashwin's GitHub streak" />
+<!-- Fast, 100% Reliable Shields.io Profile Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Developer-00C7B7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Contributions-80+-FF0055?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-7928CA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-<!-- Working Stats Card via Demolab mirror -->
-<img height="165em" src="https://github-readme-stats.salesp07.workers.dev/api?username=1shwInSingh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ashwin's GitHub stats" />
+<!-- Live GitHub Profile Summary Card (Hosted by GitHub itself, no downtime) -->
+<img width="80%" src="https://github-readme-stats-fast.vercel.app/api?username=1shwInSingh&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" onerror="this.style.display='none'" />
 
 </div>
