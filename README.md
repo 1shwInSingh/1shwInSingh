@@ -8,8 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I've+been+coding+for+around+5+years.;Pursuing+B.Tech+in+CSE+from+SRM+IST;Working+on+Human-Activity-Guesser;Learning+languages+to+train+myself." alt="Typing SVG Animation" />
 </p>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/your-username)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1shwInSingh)
+[![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/1shwInSingh)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:63940ashwinsingh@gmail.com)
 
 </div>
