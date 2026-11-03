@@ -2,17 +2,29 @@
 
 # HI, MY NAME IS ASHWIN SINGH 👋
 
-### 🚀 TRAINING MYSELF TO BECOME A SOFTWARE ENGINEER
+### 🚀 FULL STACK DEVELOPER & SOFTWARE ENGINEER
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=I've+been+coding+for+around+5+years.;Pursuing+B.Tech+in+CSE+from+SRM+IST;Working+on+Human-Activity-Guesser;Learning+languages+to+train+myself." alt="Typing SVG Animation" />
 </p>
 
+[![Live Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://1shwInSingh.github.io/1shwInSingh/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1shwInSingh)
-[![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:63940ashwinsingh@gmail.com)
 
 </div>
+
+---
+
+### 🌐 Interactive 3D Portfolio
+
+> **Live Demo:** [https://1shwInSingh.github.io/1shwInSingh/](https://1shwInSingh.github.io/1shwInSingh/)
+
+Built with **React**, **Three.js / React Three Fiber**, **TypeScript**, and **GSAP**. Features an interactive 3D character with real-time lighting, interactive physics-based tech stack simulation, and smooth scroll animations.
+
+<p align="center">
+  <img src="public/images/preview.webp" alt="Portfolio Preview" width="85%" />
+</p>
 
 ---
 
@@ -61,7 +73,7 @@
   <img src="https://img.shields.io/badge/Focus-Software_Engineering-7928CA?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-<!-- Live GitHub Profile Summary Card (Hosted by GitHub itself, no downtime) -->
+<!-- Live GitHub Profile Summary Card -->
 <img width="80%" src="https://github-readme-stats-fast.vercel.app/api?username=1shwInSingh&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" onerror="this.style.display='none'" />
 
 </div>
